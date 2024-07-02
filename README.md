@@ -1,4 +1,4 @@
-![Black Modern Personal LinkedIn Banner](https://github.com/bapibiswas100808/bapibiswas100808/assets/107844015/e3caae8f-7901-45ab-a096-bf4d7d1dd408)
+![Black Modern Personal LinkedIn Banner (1)](https://github.com/bapibiswas100808/bapibiswas100808/assets/107844015/4a3a1d92-5768-445d-97ed-423e1911bc0d)
 
 Hi, I'm Bapi Biswas, a dedicated front-end developer with a passion for crafting intuitive and visually appealing web applications. I thrive on learning new technologies and constantly improving my skills to deliver exceptional user experiences. Let's build something amazing together!
 
