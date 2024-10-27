@@ -3,8 +3,8 @@
 Hi, I'm Bapi Biswas, a dedicated front-end developer with a passion for crafting intuitive and visually appealing web applications. I thrive on learning new technologies and constantly improving my skills to deliver exceptional user experiences. Let's build something amazing together!
 
 
-- 🔭 I’m currently working on React 
-- 🌱 I’m currently learning Next.Js 
+- 🔭 I’m currently working on React & Next.Js
+- 🌱 I’m currently learning Typescript and Redux 
 - 👯 I’m looking to collaborate on Github 
 
 
